@@ -1,4 +1,4 @@
-#Author: Enver "The Mstqr" Blaviken
+#Author: Njørd "The Mstqr" Blaviken
 
 # instagram-bruteforcer-by-themstqr
 a simple instagram bruteforcer with inbuilt proxies.
